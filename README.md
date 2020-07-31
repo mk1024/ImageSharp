@@ -7,6 +7,10 @@
 - The following information about using AGPL licensed software in a commercial context represents my own thoughts on the GNU AGPL license and related statements of the Free Software Foundation. I tried to keep it short to focus on the most important points. Please read the license carefully to determine which obligations arise from your intended use.
 - This information was put together because there are some misconceptions about using ImageSharp or other AGPL projects in a commercial context. If you can use ImageSharp according to the AGPL license, then there is nothing wrong about it. If, however, your intended use is not covered by the AGPL, you should pay for the commercial license and support the many contributors of this project.
 
+## Update (Jun 08, 2020)
+  
+- ImageSharp has returned to the Apache license. The restrictions of the AGPL license mentioned below do not longer apply.
+
 ## ImageSharp Licensing (as of May 25, 2020)
   
 - ImageSharp is licensed under the [GNU Affero General Public License v3 (AGPL)](https://www.gnu.org/licenses/agpl-3.0).
